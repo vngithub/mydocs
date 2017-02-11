@@ -1,0 +1,2 @@
+About Aruba Central
+Aruba Central provides a cloud platform for managing your networks. Through Central, you can provision, configure, monitor, manage, and troubleshoot devices such as Aruba WLAN APs and Switches in your network.

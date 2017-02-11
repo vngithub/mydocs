@@ -1,0 +1,2 @@
+Managed Service Portal
+The Managed Service Portal mode provides a consolidated view of the customer accounts associated to a specific service provider. Through the Managed Service Portal, the administrators can provision customer accounts, and manage devices and subscriptions for the customer accounts.

@@ -1,1 +1,8 @@
 site_name: POC MYDocs 
+pages:
+    - Home: index.md
+    - About Central: aboutCentral.md
+    - Central Interface: centralInterface.md
+    - Managed Services Portal: msp.md
+    - Resources: resources.md
+theme: 'material'
